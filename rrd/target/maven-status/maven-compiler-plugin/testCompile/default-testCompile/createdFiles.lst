@@ -1,0 +1,11 @@
+com\mirketa\pages\HomePage.class
+com\mirketa\pages\SalesForceLoginPage.class
+com\mirketa\pages\Step1ConfigurationPage.class
+com\mirketa\dataprovider\ExcelDataProvider.class
+com\mirketa\dataprovider\ConfigDataProvider.class
+com\mirketa\testcase\login\SalesForceLoginTest.class
+com\mirketa\testcase\qat55\QAT55_CaseConfiguration69Test.class
+com\mirketa\testcase\qat54\QAT54_CaseConfiguration5Test.class
+com\mirketa\utility\Helper.class
+com\mirketa\factory\BrowserFactory.class
+com\mirketa\factory\DataProviderFactory.class
