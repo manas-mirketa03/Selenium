@@ -34,7 +34,7 @@ package DefineTeamSetup;
 
 	/**
 	 * <p>
-	 * <b>QAT-RRD-Automate Define New Team- Create New Team- Add New Criteria</b>
+	 * <b>RRD-Automate Define New Team- Create New Team- Add New Criteria </b>
 	 * </p>
 	 * <p>
 	 * 1.Login into Salesforce application
