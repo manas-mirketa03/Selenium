@@ -48,7 +48,7 @@ package DefineTeamSetup;
 	 * <p>
 	 * 5.Search RRD and clicks on The searched Option RRD that directed to RRD
 	 * 
-	 * Application Home page
+	 * Go to Application Home page
 	 * </p>
 	 * <p>
 	 * 3.Click on step2 Define Team drop down
