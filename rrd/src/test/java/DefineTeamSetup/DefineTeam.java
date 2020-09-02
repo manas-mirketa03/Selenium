@@ -54,7 +54,7 @@ package DefineTeamSetup;
 	 * 3.Click on step2 Define Team drop down
 	 * </p>
 	 * <p>
-	 * 4.Clicks On New Team drop down option
+	 * 4.Clicks On New Team drop down option list.
 	 * </p>
 	 * <p>
 	 * 5. Select Record type - Case criteria and clicks on Next button.
