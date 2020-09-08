@@ -37,7 +37,7 @@ package DefineTeamSetup;
 	 * <b>RRD-Automate Define New Team- Create New Team- Add New Criteria </b>
 	 * </p>
 	 * <p>
-	 * 1.Login into Salesforce application
+	 * 1.Login into Salesforce application-Test2
 	 * </p>
 	 * <p>
 	 * 2.Go to SetUp page
