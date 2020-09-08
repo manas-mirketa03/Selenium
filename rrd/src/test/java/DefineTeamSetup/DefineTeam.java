@@ -37,7 +37,7 @@ package DefineTeamSetup;
 	 * <b>RRD-Automate Define New Team- Create New Team- Add New Criteria </b>
 	 * </p>
 	 * <p>
-	 * 1.Login into Salesforce application
+	 * 1.Login into Salesforce application-Test2
 	 * </p>
 	 * <p>
 	 * 2.Go to SetUp page
@@ -48,13 +48,13 @@ package DefineTeamSetup;
 	 * <p>
 	 * 5.Search RRD and clicks on The searched Option RRD that directed to RRD
 	 * 
-	 * Application Home page
+	 * Go to Application Home page
 	 * </p>
 	 * <p>
 	 * 3.Click on step2 Define Team drop down
 	 * </p>
 	 * <p>
-	 * 4.Clicks On New Team drop down option
+	 * 4.Clicks On New Team drop down option list.
 	 * </p>
 	 * <p>
 	 * 5. Select Record type - Case criteria and clicks on Next button.
