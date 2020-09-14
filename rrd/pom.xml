@@ -117,7 +117,20 @@
           <artifactId>maven-project-info-reports-plugin</artifactId>
           <version>3.0.0</version>
         </plugin>
-            
+       <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>2.20.1</version>      
+       <configuration>       
+     <suite name="rrd">
+    <test thread-count="5" name="caseconfig1">
+    <classes>
+      <class name="Caseconfiguration.CaseConfig1"/>
+    </classes>
+    </test> <!-- caseconfig1 -->
+     </suite> <!-- rrd -->
+     </configuration> 
+     </plugin>
       </plugins>
     </pluginManagement>
   </build>
