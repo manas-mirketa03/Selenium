@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="CaseCreation_Allocation.CaseAllocation_config9">
+      <class name="DefineTeamSetup.DefineTeam">
         <methods>
           <include name="teardown"/>
           <include name="setUp"/>
-          <include name="CaseCreation_config9"/>
+          <include name="DefineTeamSetup"/>
         </methods>
-      </class> <!-- CaseCreation_Allocation.CaseAllocation_config9 -->
+      </class> <!-- DefineTeamSetup.DefineTeam -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
